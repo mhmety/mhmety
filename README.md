@@ -3,3 +3,4 @@
 **WHAT I DOİNG**
 - I'm currently studying IT Systems and Technologies and I'm gonna write tons of codes. I want to store my codes and learn something from people that better than me
 - I'm still learning Python(for lessons) and HTML/CSS/JavaScript (for our web project with my friend).
+- [my web designs](https://github.com/mhmety/my-web-design-experiments)
