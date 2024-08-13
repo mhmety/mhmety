@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 # 💫 About Me:
+
 Hey there! I'm Mehmet Yıldız, a proud 3rd-grade IT Systems and Technologies student at Sivas Cumhuriyet University. Technology is my playground, and I’m all about diving deep into the world of IT. From coding to tinkering with systems, I’m always hungry to learn more and push the boundaries of what I can create. My passion for tech isn't just about the theories—it's about making things happen, solving real problems, and maybe even changing the world a little bit along the way.
 
 
