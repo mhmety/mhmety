@@ -13,8 +13,9 @@ Currently, I’m specializing in **Machine Learning**, **Data Analysis with Pyth
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhmety&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmety&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Mehmet'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mhmety&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true)
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmety&layout=compact&theme=github_dark_dimmed&include_all_commits=true&count_private=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mhmety&icon=0&color=0)](https://visitcount.itsvg.in)
