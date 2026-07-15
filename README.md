@@ -10,11 +10,11 @@
 
 ## 💫 About Me
 
-I'm a **Data Analyst** with a strong interest in SQL, Python, PostgreSQL, and Business Intelligence.
+I'm a **Data Analyst** with a strong interest in **SQL, Python, PostgreSQL, and Business Intelligence**.
 
-I enjoy transforming raw data into meaningful insights by building analytical datasets, ETL pipelines, and interactive dashboards. Most of my projects focus on solving real-world business problems using SQL, Python, and modern data analysis tools.
+I enjoy transforming raw data into meaningful insights by building analytical datasets, ETL pipelines, and interactive dashboards. My projects focus on solving real-world business problems through SQL, Python, and data visualization.
 
-Currently, I'm expanding my skills in **Data Engineering** while continuing to build end-to-end analytics projects.
+Currently, I'm strengthening my skills in **Data Engineering** while continuing to build end-to-end analytics projects.
 
 ---
 
@@ -56,12 +56,6 @@ Currently, I'm expanding my skills in **Data Engineering** while continuing to b
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmety&layout=compact&theme=transparent)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmety&show_icons=true&theme=transparent)
 
 ---
 
