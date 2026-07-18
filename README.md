@@ -32,7 +32,7 @@ Currently, I'm strengthening my skills in **Data Engineering** while continuing 
 
 ## 📌 Featured Projects
 
-- 📊 **Olist E-Commerce Analytics Platform** *(In Progress)*
+- 📊 **Olist E-Commerce Analytics Platform**
 - 📈 **E-Commerce Customer Churn Prediction**
 - ⚙️ **Crypto ETL Pipeline**
 - 📉 **Telco Customer Churn Prediction**
