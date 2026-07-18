@@ -26,40 +26,49 @@ Currently I'm expanding my backend skills with FastAPI, Docker and AWS by buildi
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 - Python
 - SQL
+- HTML
+- CSS
 
-### Backend
+### Backend Development
 
-- FastAPI *(Learning through projects)*
+- FastAPI
 - REST APIs
 - JWT Authentication
 
 ### Databases
 
 - PostgreSQL
-- SQL Server
+- Microsoft SQL Server
+- Database Design
+- Data Modeling
 
 ### Data Engineering & Analytics
 
 - Pandas
 - ETL Pipelines
-- Data Modeling
-- Feature Engineering
+- Business Intelligence
 - Power BI
+- Feature Engineering
 
-### DevOps & Tools
+### DevOps & Development Tools
 
-- Docker *(Learning)*
 - Git
 - GitHub
+- Docker
 - Linux
 - VS Code
 - Cursor AI
 
----
+### Currently Learning
+
+- AWS
+- CI/CD
+- Software Architecture
+- Testing & Clean Code
 
 ## 📌 Featured Projects
 
